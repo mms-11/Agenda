@@ -1,0 +1,1 @@
+testando o uso de arquivos estaticos da nossa aplicacao na nossa pasta public
